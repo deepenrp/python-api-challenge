@@ -39,6 +39,8 @@ Create a Python script to visualize the weather of 500+ cities across the world 
     * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
 # Requirements:
-  * Google API Key (https://console.developers.google.com/getting-started)
-        - Create API Key and store it as 'g_key' in the 'api_keys.py' file before running the Jupyter notebooks
+  * Install citypy in your python environment (https://pypi.python.org/pypi/citipy)
+  * OpenWeatherMap API Key (https://openweathermap.org/) as 'weather_api_key'
+  * Google API Key (https://console.developers.google.com/getting-started) as 'g_key'
+  * Create API Keys and store it in the 'api_keys.py' file before running the Jupyter notebooks.
   
